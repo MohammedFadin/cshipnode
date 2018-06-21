@@ -1,0 +1,4 @@
+codeship.aes
+node_modules/dist/.idea/
+.env
+npm-debug.log
